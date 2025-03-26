@@ -42,7 +42,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/vehicle-selector.git
+git clone https://github.com/vehicle-selector.git
 cd vehicle-selector
 Install dependencies:
 
